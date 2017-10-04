@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   host: { class: 'ml3' }
 })
 export class AppComponent {
-  companyName = 'Company name here';
+  companyName = 'Test';
 }
